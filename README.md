@@ -14,7 +14,7 @@ npm install @bukunmikuti/hello
 ```
 ### ESM
 ```javascript
-import Hello from 
+import Hello from 'https://cdn.skypack.dev/@bukunmikuti/hello';
 ```
 You can also import from any of your favourite CDNs
 
