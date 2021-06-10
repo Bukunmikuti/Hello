@@ -1,8 +1,23 @@
 {
   "name": "@bukunmikuti/hello",
   "version": "1.0.0",
-  "description": "Say Hi",
+  "description": "Say Hello 👋",
   "main": "index.js",
+  "type": "module",
+  "module": "index.js",
+  "keywords": [
+    "say hello",
+    "say hi", 
+    "javascript",
+    "tiny"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bukunmikuti/Hello.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bukunmikuti/Hello/issues"
+  }, 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
