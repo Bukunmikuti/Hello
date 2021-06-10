@@ -2,7 +2,7 @@
 
 ![Penguin waving hands and saying 'hello'](https://media1.tenor.com/images/58725865c95fe20cfc595725fca0d6a3/tenor.gif)
 Hello says ***hello!*** 👋<br>
->**Note:** This library is not intended to have a formal use.
+>**Note:** This library does not have a formal use.
 It was created solely for learning and experimental purposes (Github-NPM workflows).<br>
 Nevertheless, it says ***hello*** quite well! 😀
 
