@@ -1,5 +1,5 @@
 {
-  "name": "hello",
+  "name": "@bukunmikuti/hello",
   "version": "1.0.0",
   "description": "Say Hi",
   "main": "index.js",
