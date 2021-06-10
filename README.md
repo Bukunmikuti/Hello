@@ -33,4 +33,4 @@ john.random(); //random
 ```
 ## Contribution
 How about we have a thousand ways of saying hello! <br>
-Please go ahead, make a contribution if you will 👏
+Please go ahead — make a contribution if you will. 👏
