@@ -1,7 +1,7 @@
 # Hello
 
 ![Penguin waving hands and saying 'hello'](https://media1.tenor.com/images/58725865c95fe20cfc595725fca0d6a3/tenor.gif)
-Hello says ***hello!*** 👋<br>
+<br>Hello says ***hello!*** 👋<br>
 <p>
 <a href="#">
   <img src="https://img.shields.io/bundlephobia/min/@bukunmikuti/hello?color=Blue&style=flat-square">
@@ -9,7 +9,7 @@ Hello says ***hello!*** 👋<br>
  <a href="">
  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Bukunmikuti/Hello?style=flat-square">
  </a>
- <a href="#">
+ <a href="https://www.npmjs.com/package/@bukunmikuti/hello">
   <img alt="npm" src="https://img.shields.io/npm/v/@bukunmikuti/hello?style=flat-square">
  </a>
  </p>
