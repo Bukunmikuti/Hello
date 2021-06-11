@@ -17,7 +17,7 @@ export default class Hello {
   }
   
   random() {
-    let random = Math.floor(Math.random() * this.greet.length);
+   let random = Math.floor(Math.random() * this.greet.length);
     return this.greet[random];
   }
 }
