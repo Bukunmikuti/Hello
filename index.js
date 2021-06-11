@@ -1,7 +1,7 @@
 export default class Hello {
   constructor (name) {
     this.name = name;
-    this.greet = [hello(), hey(), hi()];
+    this.greet = [this.hello(), this.hey(), this.hi()];
   }
   
   hello () {
